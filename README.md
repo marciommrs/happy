@@ -1,3 +1,6 @@
+<div align="center">
+    <img alt="Logo" title="#logo" width="200px" src=".github/icon.png">
+</div>
 
 </br></br>
 
@@ -37,8 +40,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ## :computer: Resultado Web
 
 <h1 align="center">
-    <img alt="Lista de Contatos" src=".github/page1.png" width="100%">
-    <img alt="Lista de Contatos" src=".github/page2png" width="100%">
+    <img alt="Page 1" src=".github/page1.png" width="100%">
+    <img alt="Page 2" src=".github/page2.png" width="100%">
 </h1>
 
 
