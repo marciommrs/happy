@@ -66,8 +66,15 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ```sh
 
-  # Instale as dependências
+  # Acessar o backend, instalar as denpendências e iniciar
+  $ cd backend
   $ yarn install
+  $ yarn dev:server
+
+  # Acessar o frontend, instalar as denpendências e iniciar
+  $ cd web
+  $ yarn install
+  $ yarn start
   
   # Inicie o projeto
   $ yarn start
