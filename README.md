@@ -40,6 +40,14 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ## :computer: Resultado Web
 
 <h1 align="center">
+    <img alt="Page 1" src=".github/mobile01.png" width="100%">
+    <img alt="Page 2" src=".github/mobile02.png" width="100%">
+    <img alt="Page 2" src=".github/mobile03.png" width="100%">
+</h1>
+
+## :computer: Resultado Mobile
+
+<h1 align="center">
     <img alt="Page 1" src=".github/page1.png" width="100%">
     <img alt="Page 2" src=".github/page2.png" width="100%">
 </h1>
@@ -75,9 +83,16 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
   $ cd web
   $ yarn install
   $ yarn start
+
+  #Acesse em http://localhost:3000/
   
-  # Inicie o projeto
+
+  # Acessar o frontend, instalar as denpendências e iniciar
+  $ cd mobile
+  $ yarn install
   $ yarn start
   
-  #Acesse em http://localhost:3000/
+  #Instalar o expo-client no celular
+  #Acesse em http://localhost:19002/
+  #Abrir a câmera e apontar para o QRCode
 ```
