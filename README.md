@@ -88,6 +88,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
   
 
   # Acessar o frontend, instalar as denpendências e iniciar
+  # Alterar o IP nos arquivos backend/api.ts e mobile/api.ts para o IP da máquina
   $ cd mobile
   $ yarn install
   $ yarn start
